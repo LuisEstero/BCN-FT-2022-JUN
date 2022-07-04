@@ -1,4 +1,0 @@
-     ###lab-express-basic-auth
-     https://github.com/TAIronhackFT2022JUN/FT2201-basic-auth
-     
-     

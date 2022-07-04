@@ -1,0 +1,252 @@
+[{
+  "name": "TADEJ POGAČAR",
+  "nationality": "Slovenia",
+  "team": "UAE Team Emirates",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Tadej Pogacar.png"
+},{
+  "name": "RAFAŁ MAJKA",
+  "nationality": "Poland",
+  "team": "UAE Team Emirates",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Rafal Majka.png"
+},{
+  "name": "MARC HIRSCHI",
+  "nationality": "Switzeland",
+  "team": "UAE Team Emirates",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Marc Hirschi.png"
+},{
+  "name":"JONAS VINGEGAARD" ,
+  "nationality": "Denamark",
+  "team": "JUMBO VISMA Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Jonas Vingegaard.png"
+},{
+  "name":"PRIMOZ ROGILC" ,
+  "nationality":"Slovenia" ,
+  "team": "JUMBO VISMA Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Primo Roglic.png"
+},{
+  "name":"WOUT VAN AERT" ,
+  "nationality":"Belgium" ,
+  "team": "JUMBO VISMA Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Wout Van Aert.png"
+},{
+  "name":"GERAINT THOMAS" ,
+  "nationality":"Great Britain" ,
+  "team": "INEOS GRENADIERS Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Geraint Thomas.png"
+},{
+  "name":"ADAM YATES" ,
+  "nationality":"Great Britain" ,
+  "team": "INEOS GRENADIERS Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Adam Yates.png"
+},{
+  "name":"DANIEL FELIPE MARTINEZ" ,
+  "nationality":"Colombia" ,
+  "team": "INEOS GRANADIERS Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Daniel Felipe Martinez.png"
+},{
+  "name":"JACK HAIG" ,
+  "nationality":"Australia" ,
+  "team": "BAHRAIN VICTORIOUS",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Jack Haig.png"
+},{
+  "name":"MATEJ MOHORIC" ,
+  "nationality":"Slovenia" ,
+  "team": "BAHRAIN VICTORIOUS",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Matej Mohoric.png"
+},{
+  "name":"DAMIANO CARUSO" ,
+  "nationality":"Italy" ,
+  "team": "BAHRAIN VICTORIOUS",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Damiano Caruso.png"
+},{
+  "name":"ENRIC MAS" ,
+  "nationality":"Spain" ,
+  "team": "MOVISTAR",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Enric Mas.png" 
+},{
+  "name":"GORKA IZAGUIRRE" ,
+  "nationality":"Spain" ,
+  "team": "MOVISTAR",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Gorka Izaguirre.png" 
+},{
+  "name":"CARLOS VERONA" ,
+  "nationality":"Spain" ,
+  "team": "MOVISTAR",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Carlos Verona.png" 
+},{
+  "name":"FABIO JAKOBSEN" ,
+  "nationality":"Netherlands" ,
+  "team": "QUICK-STEP Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Fabio Jakobsen.png"  
+},{
+  "name":"FLORIAN SENECHAL" ,
+  "nationality":"France" ,
+  "team": "QUICK-STEP Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Florian Senechal.png"  
+},{
+  "name":"YVES LAMPAERT" ,
+  "nationality":"Belgium" ,
+  "team": "QUICK-STEP Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Yves Lampaert.png"  
+},{
+  "name":"PETER SAGAN" ,
+  "nationality":"Slovakia" ,
+  "team": "TOTAL ENERGIES",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Peter Sagan.png"  
+},{
+  "name":"PIERRE LATOUR" ,
+  "nationality":"France" ,
+  "team": "TOTAL ENERGIES",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/PIER Latour.png"  
+},{
+  "name":"ALEIX VUILLERMOZ" ,
+  "nationality":"France" ,
+  "team": "TOTAL ENERGIES",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Aleix Vuillermoz.png"  
+},{
+  "name":"DAVID GAUDU" ,
+  "nationality":"France" ,
+  "team": "GRUPAMA-FDJ",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/David Gaudu.png"  
+},{
+  "name":"THIBAUT PINOT" ,
+  "nationality":"France" ,
+  "team": "GRUPAMA-FDJ",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Thibout Pinot.png"  
+},{
+  "name":"STEFAN KÜNG" ,
+  "nationality":"Switzerland" ,
+  "team": "GRUPAMA-FDJ",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Stefan Kung.png"  
+},{
+  "name":"ROMAIN BARDET" ,
+  "nationality":"France" ,
+  "team": "TEAM DSM",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Romain Bardet.png"  
+},{
+  "name":"JHON DEGENKOLB" ,
+  "nationality":"Germany" ,
+  "team": "TEAM DSM",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Jhon Degenkolb.png"  
+},{
+  "name":"MATHIU VAN DER POEL" ,
+  "nationality":"Netherlands" ,
+  "team": "ALPECIN-DECEUNINCK",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Mathieu Van Der Poel.png"  
+},{
+  "name":"JASPER PHILIPSEN" ,
+  "nationality":"Belgium" ,
+  "team": "ALPECIN-DECEUNINCK",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Jasper Philpsen.png"  
+},{
+  "name":"CALEB EWAN" ,
+  "nationality":"Australia" ,
+  "team": "LOTTO SOUDAL",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Caleb Ewan.png"  
+},{
+  "name":"PHILIPE GILBERT" ,
+  "nationality":"Belgium" ,
+  "team": "LOTTO SOUDAL",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Phillippe Gilbert.png" 
+},{
+  "name":"TIM WELLENS" ,
+  "nationality":"Belgium" ,
+  "team": "LOTTO SOUDAL",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Tin Wellens.png" 
+},{
+  "name":"MADS PEDERSEN" ,
+  "nationality":"Denmark" ,
+  "team": "TREK-SEGAFREDO",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Mads Pedersen.png" 
+},{
+  "name":"BAUKE MOLLEMA" ,
+  "nationality":"Netherlands" ,
+  "team": "TREK-SEGAFREDO",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Mollema.png" 
+},{
+  "name":"BEN O`CONNOR" ,
+  "nationality":"Australia" ,
+  "team": "AG2R CITROEN Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Ben O´Connor.png" 
+},{
+  "name":"BENOIT COSNEFROY" ,
+  "nationality":"France" ,
+  "team": "AG2R CITROEN Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Benoit Cosnefroy.png" 
+},{
+  "name":"NAIRO QUINTANA" ,
+  "nationality":"Colombia" ,
+  "team": "ARKEA Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Nairo Quintana.png"
+},{
+  "name":"WARREN BARGUIL" ,
+  "nationality":"France" ,
+  "team": "ARKEA Team",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Warren Gargil.png"
+},{
+  "name":"RIGOBERTO URAN" ,
+  "nationality":"Colombia" ,
+  "team": "EF-EDUCATION",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Rigoberto Uran.png"
+},{
+  "name":"MAGNUS CORT NIELSEN" ,
+  "nationality":"Denmark" ,
+  "team": "EF-EDUCATION",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Magnus Cort Nilsen.png"
+},{
+  "name":"STEFAN BISSEGGER" ,
+  "nationality":"Switzerland" ,
+  "team": "EF-EDUCATION",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Stefan Bisseger.png"
+},{
+  "name":"MICHAEL WOODS" ,
+  "nationality":"Canada" ,
+  "team": "ISRAEL-PREMIER TECH",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Michael Woods.png"
+},{
+  "name":"JAKOB FUGLSANG" ,
+  "nationality":"Denmark" ,
+  "team": "ISRAEL-PREMIER TECH",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Jacob Fuglsang.png"
+},{
+  "name":"ALEKSANDR VLASOV" ,
+  "nationality":"Russia" ,
+  "team": "BORA - HANSGROHE",
+  "image": ""
+},{
+  "name":"MAXIMILIAN SCHACHMANN" ,
+  "nationality":"Germany" ,
+  "team": "BORA - HANSGROHE",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Aleksandr Vlasov.png"
+},{
+  "name":"LENNARD KÄMNA" ,
+  "nationality":"Germany" ,
+  "team": "BORA - HANSGROHE",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Lennard Kamna.png"
+},{
+  "name":"DYLAN GROENEWEGEN" ,
+  "nationality":"Netherlands" ,
+  "team": "TEAM BIKEEXCHANGE",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Dylan Groenewegen.png"
+},{
+  "name":"MICHAEL MATTHEWS" ,
+  "nationality":"Australia" ,
+  "team": "TEAM BIKEEXCHANGE",
+  "image": "BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Michael Matthews.png"
+},{
+  "name":"GUILLAUME MARTIN" ,
+  "nationality":"FRANCE" ,
+  "team": "COFIDIS",
+  "image":"BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Guillaume Martin.png"
+},{
+  "name":"PIERE LUC PERICHON" ,
+  "nationality":"France" ,
+  "team": "COFIDIS",
+  "image":"BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Pierre Luc Perichon.png"
+},{
+  "name":"ALEXANDER KRISTOFF" ,
+  "nationality":"Norway" ,
+  "team": "INTERMACHE-WANTY",
+  "image":"BCN-FT-2022-JUN/Proyecto-modelo/imagenes/Alexander Kristoff.png"
+}
+]

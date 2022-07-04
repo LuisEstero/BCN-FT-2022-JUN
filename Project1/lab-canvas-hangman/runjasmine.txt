@@ -1,4 +1,0 @@
-npm i jasmine-node
-/node_modules/jasmine-node/bin/jasmine-node --verbose --junitreport --noColor jasmine
-
-run the tests from SpecRunner.html

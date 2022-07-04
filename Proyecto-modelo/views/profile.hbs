@@ -1,10 +1,17 @@
 <h1>Welcome {{user.username}}</h1>
-{{#each user.favorites}}
-<img src={{image}} alt={{name}}>
-<p>{{name}}</p>
-<form action = "/delete-favorite" method="POST">
-    <input type="hidden" name="id" value={{_id}}>
+ <div class='row row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5 my-5'>
+  
+    {{#each user.favorites}}
+    <div class='col'>
+      <div class='card shadow-sm'>
+        <img src="{{image}}" alt="">
+        <p>{{name}}</p>
+        <p>{{nationality}}</p>
+        <form action = "/delete-favorite/{{_id}}" method="POST">
 
-<button type="submit">Delete Favourites</button>
-</form>
-{{/each}}
+          <button type="submit">Delete Favourites</button>
+        </form>
+      </div>
+    </div>
+    {{/each}}    
+  </div>

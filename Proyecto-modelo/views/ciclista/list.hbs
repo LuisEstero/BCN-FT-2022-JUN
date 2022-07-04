@@ -9,14 +9,7 @@
         <img src="{{image}}" alt="">
         <p>{{name}}</p>
         <p>{{nationality}}</p>
-        <form action = "/add-favorite" method="POST">
-          
-          <input type="hidden" name="name" value={{name}}>
-          <input type="hidden" name="status" value={{status}}>
-          <input type="hidden" name="species" value={{species}}>
-          <input type="hidden" name="gender" value={{gender}}>
-          <input type="hidden" name="image" value={{image}}>
-          <input type="hidden" name="apiId" value={{id}}>
+        <form action = "/add-favorite/{{_id}}" method="POST">
 
           <button type="submit">Add Favourites</button>
         </form>

@@ -7,8 +7,9 @@ const userSchema = new Schema({
   favorites:  [{	
     type: Schema.Types.ObjectId,
 		ref: "Ciclista"
-  }]
-  //referencias de la bd characrters
+  }],
+  
+  
 });
 
 const User = model("User", userSchema);

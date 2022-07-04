@@ -3,7 +3,7 @@ const router = require("express").Router();
 const alert = require("alert");
 const isLoggedIn = require("../middleware/isLoggedIn");
 const Ciclista = require("../models/Ciclista.model");
-const Character = require("../models/Ciclista.model");
+
 const User = require("../models/User.model");
 const Api = require("../services/ApiHandler");
 const CiclistasAPI = new Api()

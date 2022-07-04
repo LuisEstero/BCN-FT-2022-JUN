@@ -1,14 +1,14 @@
 <div class='container'>
-  <h1>Characters list</h1>
+  <h1>List of Cyclistst</h1>
 
   <div class='row row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5 my-5'>
   {{!-- image name status --}}
-    {{#each characters}}
+    {{#each ciclista}}
     <div class='col'>
       <div class='card shadow-sm'>
         <img src="{{image}}" alt="">
         <p>{{name}}</p>
-        <p>{{status}}</p>
+        <p>{{nationality}}</p>
         <form action = "/add-favorite" method="POST">
           
           <input type="hidden" name="name" value={{name}}>
@@ -18,7 +18,7 @@
           <input type="hidden" name="image" value={{image}}>
           <input type="hidden" name="apiId" value={{id}}>
 
-          <button type="submit">Añadir a favoritos</button>
+          <button type="submit">Add Favourites</button>
         </form>
       </div>
     </div>

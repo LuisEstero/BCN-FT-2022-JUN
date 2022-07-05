@@ -1,10 +1,14 @@
 body {
+  background-image: url("../images/Tour.jpg");
+  background-size: cover;
+  
+  
   padding: 50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
 a {
-  color: #00b7ff;
+  color: #2f84a5;
 }
 
 h1 {
@@ -13,4 +17,15 @@ h1 {
 
 .error{
   color: red;
+}
+
+.lista{
+  
+  color: black;
+  text-align: center;
+  font-style: italic;
+
+}
+#submit{
+  
 }

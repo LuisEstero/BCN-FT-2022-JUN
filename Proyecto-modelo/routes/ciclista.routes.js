@@ -8,7 +8,7 @@ const User = require("../models/User.model");
 
 
 
-router.get('/ciclista',(req, res)=>{
+router.get('/',isLoggedIn,(req, res)=>{
     
     
     Ciclista
@@ -22,6 +22,9 @@ router.get('/ciclista',(req, res)=>{
     
     
 })
+
+
+
 
 router.post("/add-favorite/:id", isLoggedIn ,(req, res) =>{
 const id = req.params.id
@@ -42,11 +45,6 @@ router.post("/delete-favorite/:id",isLoggedIn,(req,res)=>{
     .catch(err => console.log(err))
 })
 
-/**
- * ---arrays
-{ field: { $in: [ value1, value2, ..... , valueN ] } }
-{ field: { $nin: [ value1, value2, ..... , valueN ] } }
-{ field: { $all: [ value1, value2, ..... , valueN ] } }
- */
+
 
 module.exports = router;

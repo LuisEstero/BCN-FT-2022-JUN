@@ -22,17 +22,17 @@ app.locals.title = `${capitalized(projectName)} created with IronLauncher`;
 app.locals.subtitle = "I'am the subtitle"
 
 
+ const index = require("./routes/index");
+ app.use("/", index);
 
-require("./routes/index")(app)
+ const authRoutes = require("./routes/auth");
+ app.use("/auth", authRoutes);
 
-// const index = require("./routes/index");
-// app.use("/", index);
+ const ciclistaRoutes = require("./routes/ciclista.routes");
+ app.use("/ciclista", ciclistaRoutes);
 
-// const authRoutes = require("./routes/auth");
-// app.use("/auth", authRoutes);
-
-// const charRoutes = require("./routes/characters.routes");
-// app.use("/", charRoutes);
+ const profileRoutes = require("./routes/base.routes")
+ app.use("/profile", profileRoutes)
 
 require("./error-handling")(app);
 

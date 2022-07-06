@@ -1,9 +1,9 @@
 
 
 
-<div class='container'> 
+<div class='container backImg'> 
 
-  <h1 class="lista">List of Cyclistst</h1>
+  <h1 class="lista">Cyclists</h1>
 
   <div class='row row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5 my-5'>
   {{!-- image name status --}}
@@ -11,9 +11,9 @@
     <div class='col'>
       <div class='card shadow-sm'>
         <img src="{{image}}"  class="card-img-top" alt="">
-        <p>{{name}}</p>
-        <p>{{nationality}}</p>
-        <p>{{team}}</p>
+        <p class="alinear">{{name}}</p>
+        <p class="alinear">{{nationality}}</p>
+        <p class="alinear">{{team}}</p>
         <form action = "/ciclista/add-favorite/{{_id}}" method="POST">
 
           <button class="favoritos" type="submit">Add Favourites</button>

@@ -1,10 +1,8 @@
 body {
-  background-image: url("../images/portada-tour.jpg");
+  background: url("../images/portada-tour.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  
-  
-  padding: 50px;
+  padding:50px;
   font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
 }
 
@@ -51,14 +49,22 @@ h1 {
 }
 .delete{
   display: inline-block;
-  padding: 0.85em 1.5em;
-  font-size: 1 em;
+  padding: 15px 15px;
+  font-size: 13px;
   cursor: pointer;
+  text-align: center;	
   text-decoration: none;
-  color: #ffffff;
-  background-color: #5D5D9B;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
   border: none;
-  border-radius: 0;
-
-  
+  border-radius: 10px;
+  box-shadow: 9px #999;
+}
+.backImg{
+  background-color: transparent;
+}
+.alinear {
+  text-align: center;
+  font-size: 20px;
 }

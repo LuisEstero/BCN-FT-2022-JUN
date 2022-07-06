@@ -1,5 +1,6 @@
 body {
-  background-image: url("../images/Tour.jpg");
+  background-image: url("../images/portada-tour.jpg");
+  background-repeat: no-repeat;
   background-size: cover;
   
   
@@ -26,6 +27,38 @@ h1 {
   font-style: italic;
 
 }
-#submit{
+.nav-item{
+  font-size: 19px;
+  font-style: italic;
+  
+}
+.navbar-brand{
+  font-size: 15px;
+}
+.favoritos {
+  display: inline-block;
+  padding: 15px 15px;
+  font-size: 13px;
+  cursor: pointer;
+  text-align: center;	
+  text-decoration: none;
+  outline: none;
+  color: #fff;
+  background-color: #4CAF50;
+  border: none;
+  border-radius: 10px;
+  box-shadow: 9px #999;
+}
+.delete{
+  display: inline-block;
+  padding: 0.85em 1.5em;
+  font-size: 1 em;
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffffff;
+  background-color: #5D5D9B;
+  border: none;
+  border-radius: 0;
+
   
 }

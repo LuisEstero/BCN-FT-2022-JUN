@@ -1,7 +1,8 @@
 
 
 
-<div class='container'>
+<div class='container'> 
+
   <h1 class="lista">List of Cyclistst</h1>
 
   <div class='row row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5 my-5'>
@@ -12,9 +13,10 @@
         <img src="{{image}}"  class="card-img-top" alt="">
         <p>{{name}}</p>
         <p>{{nationality}}</p>
+        <p>{{team}}</p>
         <form action = "/ciclista/add-favorite/{{_id}}" method="POST">
 
-          <button type="submit">Add Favourites</button>
+          <button class="favoritos" type="submit">Add Favourites</button>
         </form>
       </div>
     </div>

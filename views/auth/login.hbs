@@ -1,17 +1,22 @@
-<form action="/auth/login" method="POST">
-   <label> Username
-      <input type="text" name="username">
-   </label>
-   <label> Password
-      <input type="password" name="password">
-   </label>
-
-   <button class="boton-registro" type="submit">Submit</button>
+<form class='form-auth' action='/auth/login' method='POST'>
+  <h2>Login</h2>
+  <div class='container-auth'>
+    <label>
+      Username
+      <input type='text' name='username' />
+    </label>
+    <label>
+      Password
+      <input type='password' name='password' />
+    </label>
+    <button class='boton-registro' type='submit'>
+      Submit
+    </button>
+  </div>
 </form>
 
 {{#if errorMessage}}
-<p class="error">{{errorMessage}}</p>
+  <p class='error'>
+    {{errorMessage}}
+  </p>
 {{/if}}
-
-
-   

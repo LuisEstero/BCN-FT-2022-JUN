@@ -1,17 +1,32 @@
-<h1>Welcome {{user.username}}</h1>
- <div class='row row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5 my-5'>
-  
+<div class='container backImg'>
+  <h1>
+    Welcome {{user.username}}
+  </h1>
+  <div class='row row row-cols-1 row-cols-sm-2 row-cols-md-3 g-5 my-5'>
     {{#each user.favorites}}
-    <div class='col'>
-      <div class='card shadow-sm'>
-        <img src="{{image}}" alt="">
-        <p>{{name}}</p>
-        <p>{{nationality}}</p>
-        <form action = "/ciclista/delete-favorite/{{_id}}" method="POST">
-
-          <button class="delete" type="submit">Delete Favourites</button>
-        </form>
+      <div class='col'>
+        <div class='sm'>
+          <div class='box-image'>
+            <img src="{{image}}" class='card-img-top' alt='' />
+          </div>
+          <div class='bg-details'>
+            <p class='alinear'>
+              {{name}}
+            </p>
+            <p class='alinear'>
+              {{nationality}}
+            </p>
+            <p class='alinear'>
+              {{team}}
+            </p>
+          </div>
+          <form class="container-button" action="/ciclista/delete-favorite/{{_id}}" method='POST'>
+            <button class='boton-registro' type='submit'>
+              Delete Favourites
+            </button>
+          </form>
+        </div>
       </div>
-    </div>
-    {{/each}}    
+    {{/each}}
   </div>
+</div>

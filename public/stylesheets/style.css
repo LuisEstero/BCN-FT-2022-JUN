@@ -42,10 +42,12 @@ h1 {
   text-decoration: none;
   outline: none;
   color: #fff;
-  background-color: #4CAF50;
+  background-color: #082d09;
   border: none;
   border-radius: 10px;
   box-shadow: 9px #999;
+  position: static;
+
 }
 .delete{
   display: inline-block;
@@ -60,6 +62,8 @@ h1 {
   border: none;
   border-radius: 10px;
   box-shadow: 9px #999;
+  position: static;
+  
 }
 .backImg{
   background-color: transparent;

@@ -1,0 +1,409 @@
+[{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d792"
+  },
+  "name": "TADEJ POGAČAR",
+  "nationality": "Slovenia",
+  "team": "UAE Team Emirates",
+  "image": "../images/Tadej Pogacar.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d793"
+  },
+  "name": "RAFAŁ MAJKA",
+  "nationality": "Poland",
+  "team": "UAE Team Emirates",
+  "image": "../images/Rafal Majka.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d794"
+  },
+  "name": "MARC HIRSCHI",
+  "nationality": "Switzeland",
+  "team": "UAE Team Emirates",
+  "image": "../images/Marc Hirschi.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d795"
+  },
+  "name": "JONAS VINGEGAARD",
+  "nationality": "Denamark",
+  "team": "JUMBO VISMA Team",
+  "image": "../images/Jonas Vingegaard.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d796"
+  },
+  "name": "PRIMOZ ROGILC",
+  "nationality": "Slovenia",
+  "team": "JUMBO VISMA Team",
+  "image": "..//images/Primo Roglic.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d797"
+  },
+  "name": "WOUT VAN AERT",
+  "nationality": "Belgium",
+  "team": "JUMBO VISMA Team",
+  "image": "../images/Wout Van Aert.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d798"
+  },
+  "name": "GERAINT THOMAS",
+  "nationality": "Great Britain",
+  "team": "INEOS GRENADIERS Team",
+  "image": "../images/Geraint Thomas.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d799"
+  },
+  "name": "ADAM YATES",
+  "nationality": "Great Britain",
+  "team": "INEOS GRENADIERS Team",
+  "image": "../images/Adam Yates.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d79a"
+  },
+  "name": "DANIEL FELIPE MARTINEZ",
+  "nationality": "Colombia",
+  "team": "INEOS GRANADIERS Team",
+  "image": "../images/Daniel Felipe Martinez.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d79b"
+  },
+  "name": "JACK HAIG",
+  "nationality": "Australia",
+  "team": "BAHRAIN VICTORIOUS",
+  "image": "../images/Jack Haig.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d79c"
+  },
+  "name": "MATEJ MOHORIC",
+  "nationality": "Slovenia",
+  "team": "BAHRAIN VICTORIOUS",
+  "image": "../images/Matej Mohoric.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d79d"
+  },
+  "name": "DAMIANO CARUSO",
+  "nationality": "Italy",
+  "team": "BAHRAIN VICTORIOUS",
+  "image": "../images/Damiano Caruso.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d79e"
+  },
+  "name": "ENRIC MAS",
+  "nationality": "Spain",
+  "team": "MOVISTAR",
+  "image": "../images/Enric Mas.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d79f"
+  },
+  "name": "GORKA IZAGUIRRE",
+  "nationality": "Spain",
+  "team": "MOVISTAR",
+  "image": "../images/Gorka Izaguirre.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a0"
+  },
+  "name": "CARLOS VERONA",
+  "nationality": "Spain",
+  "team": "MOVISTAR",
+  "image": "../images/Carlos Verona.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a1"
+  },
+  "name": "FABIO JAKOBSEN",
+  "nationality": "Netherlands",
+  "team": "QUICK-STEP Team",
+  "image": "../images/Fabio Jakobsen.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a2"
+  },
+  "name": "FLORIAN SENECHAL",
+  "nationality": "France",
+  "team": "QUICK-STEP Team",
+  "image": "../images/Florian Senechal.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a3"
+  },
+  "name": "YVES LAMPAERT",
+  "nationality": "Belgium",
+  "team": "QUICK-STEP Team",
+  "image": "../images/Yves Lampaert.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a4"
+  },
+  "name": "PETER SAGAN",
+  "nationality": "Slovakia",
+  "team": "TOTAL ENERGIES",
+  "image": "../images/Peter Sagan.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a5"
+  },
+  "name": "PIERRE LATOUR",
+  "nationality": "France",
+  "team": "TOTAL ENERGIES",
+  "image": "../images/Pier Latour.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a6"
+  },
+  "name": "ALEIX VUILLERMOZ",
+  "nationality": "France",
+  "team": "TOTAL ENERGIES",
+  "image": "../images/Aleix Vuillermoz.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a7"
+  },
+  "name": "DAVID GAUDU",
+  "nationality": "France",
+  "team": "GRUPAMA-FDJ",
+  "image": "../images/David Gaudu.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a8"
+  },
+  "name": "THIBAUT PINOT",
+  "nationality": "France",
+  "team": "GRUPAMA-FDJ",
+  "image": "../images/Thibout Pinot.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7a9"
+  },
+  "name": "STEFAN KÜNG",
+  "nationality": "Switzerland",
+  "team": "GRUPAMA-FDJ",
+  "image": "../images/Stefan Küng.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7aa"
+  },
+  "name": "ROMAIN BARDET",
+  "nationality": "France",
+  "team": "TEAM DSM",
+  "image": "../images/Romain Bardet.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7ab"
+  },
+  "name": "JHON DEGENKOLB",
+  "nationality": "Germany",
+  "team": "TEAM DSM",
+  "image": "../images/Jhon Degenkolb.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7ac"
+  },
+  "name": "MATHIU VAN DER POEL",
+  "nationality": "Netherlands",
+  "team": "ALPECIN-DECEUNINCK",
+  "image": "../images/Mathieu Van Der Poel.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7ad"
+  },
+  "name": "JASPER PHILIPSEN",
+  "nationality": "Belgium",
+  "team": "ALPECIN-DECEUNINCK",
+  "image": "../images/Jasper Philpsen.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7ae"
+  },
+  "name": "CALEB EWAN",
+  "nationality": "Australia",
+  "team": "LOTTO SOUDAL",
+  "image": "../images/Caleb Ewan.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7af"
+  },
+  "name": "PHILIPE GILBERT",
+  "nationality": "Belgium",
+  "team": "LOTTO SOUDAL",
+  "image": "../images/Phillippe Gilbert.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b0"
+  },
+  "name": "TIM WELLENS",
+  "nationality": "Belgium",
+  "team": "LOTTO SOUDAL",
+  "image": "../images/Tin Wellens.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b1"
+  },
+  "name": "MADS PEDERSEN",
+  "nationality": "Denmark",
+  "team": "TREK-SEGAFREDO",
+  "image": "../images/Mads Pedersen.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b2"
+  },
+  "name": "BAUKE MOLLEMA",
+  "nationality": "Netherlands",
+  "team": "TREK-SEGAFREDO",
+  "image": "..//images/Mollema.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b3"
+  },
+  "name": "BEN O`CONNOR",
+  "nationality": "Australia",
+  "team": "AG2R CITROEN Team",
+  "image": "..//images/Ben O´Connor.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b4"
+  },
+  "name": "BENOIT COSNEFROY",
+  "nationality": "France",
+  "team": "AG2R CITROEN Team",
+  "image": "..//images/Benoit Cosnefroy.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b5"
+  },
+  "name": "NAIRO QUINTANA",
+  "nationality": "Colombia",
+  "team": "ARKEA Team",
+  "image": "..//images/Nairo Quintana.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b6"
+  },
+  "name": "WARREN BARGUIL",
+  "nationality": "France",
+  "team": "ARKEA Team",
+  "image": "..//images/Warren Gargil.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b7"
+  },
+  "name": "RIGOBERTO URAN",
+  "nationality": "Colombia",
+  "team": "EF-EDUCATION",
+  "image": "..//images/Rigoberto Uran.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b8"
+  },
+  "name": "MAGNUS CORT NIELSEN",
+  "nationality": "Denmark",
+  "team": "EF-EDUCATION",
+  "image": "..//images/Magnus Cort Nilsen.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7b9"
+  },
+  "name": "STEFAN BISSEGGER",
+  "nationality": "Switzerland",
+  "team": "EF-EDUCATION",
+  "image": "..//images/Stefan Bisseger.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7ba"
+  },
+  "name": "MICHAEL WOODS",
+  "nationality": "Canada",
+  "team": "ISRAEL-PREMIER TECH",
+  "image": "..//images/Michael Woods.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7bb"
+  },
+  "name": "JAKOB FUGLSANG",
+  "nationality": "Denmark",
+  "team": "ISRAEL-PREMIER TECH",
+  "image": "..//images/Jacob Fuglsang.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7bc"
+  },
+  "name": "ALEKSANDR VLASOV",
+  "nationality": "Rusia",
+  "team": "BORA - HANSGROHE",
+  "image": "..//images/Aleksandr Vlasov.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7bd"
+  },
+  "name": "MAXIMILIAN SCHACHMANN",
+  "nationality": "Germany",
+  "team": "BORA - HANSGROHE",
+  "image": "..//images/Maximiliam Shachmann.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7be"
+  },
+  "name": "LENNARD KÄMNA",
+  "nationality": "Germany",
+  "team": "BORA - HANSGROHE",
+  "image": "..//images/Lennard Kamna.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7bf"
+  },
+  "name": "DYLAN GROENEWEGEN",
+  "nationality": "Netherlands",
+  "team": "TEAM BIKEEXCHANGE",
+  "image": "..//images/Dylan Groenewegen.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7c0"
+  },
+  "name": "MICHAEL MATTHEWS",
+  "nationality": "Australia",
+  "team": "TEAM BIKEEXCHANGE",
+  "image": "..//images/Michael Matthews.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7c1"
+  },
+  "name": "GUILLAUME MARTIN",
+  "nationality": "FRANCE",
+  "team": "COFIDIS",
+  "image": "..//images/Guillaume Martin.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7c2"
+  },
+  "name": "PIERE LUC PERICHON",
+  "nationality": "France",
+  "team": "COFIDIS",
+  "image": "..//images/Pierre Luc Perichon.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7c3"
+  },
+  "name": "ALEXANDER KRISTOFF",
+  "nationality": "Norway",
+  "team": "INTERMACHE-WANTY",
+  "image": "..//images/Alexander Kristoff.png"
+},{
+  "_id": {
+    "$oid": "62c2f719a7a28c13ab59d7c4"
+  },
+  "name": "PIERRE ROLLAND",
+  "nationality": "France",
+  "team": "B&B HOTELS",
+  "image": "..//images/Pierre Rolland.png"
+}]

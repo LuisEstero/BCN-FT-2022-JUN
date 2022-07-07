@@ -65,7 +65,7 @@ nav {
 .bg-details {
   margin: 10px 0px;
   padding: 5px;
-  background-color: black;
+  background-color: rgb(45, 44, 44);
   color: white;
   border-radius: 20px;
 }
@@ -136,4 +136,21 @@ select:-webkit-autofill:focus {
   -webkit-text-fill-color: black;
   -webkit-box-shadow: 0 0 0px 1000px #fffab3 inset;
   transition: background-color 5000s ease-in-out 0s;
+}
+.mensaje{
+  width: 100px;
+  height: 37px;
+  -webkit-transform: skew(-18deg);
+  transform: skew(-18deg);
+  background: #ff0;
+  color: #000;
+  font-weight: 800;
+  font-size: 1rem;
+  text-align: center;
+  vertical-align: baseline;
+  line-height: 37px;
+  border-radius: 7px 0;
+  position: fixed;
+  left: 60px;
+  
 }
